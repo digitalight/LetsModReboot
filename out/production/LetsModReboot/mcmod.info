@@ -1,0 +1,19 @@
+[
+ {
+  "authors": [
+   "digitalight"
+  ],
+  "credits": "",
+  "dependencies": [],
+  "description": "Make medals to wear and showoff",
+  "mcversion": "1.7.10",
+  "modid": "MedalsMod",
+  "name": "Medals Mod",
+  "parent": "",
+  "screenshots": [],
+  "updateUrl": "",
+  "url": "http://minecraftmedals.net",
+  "version": "0.1",
+  "logofile":""
+ }
+]
